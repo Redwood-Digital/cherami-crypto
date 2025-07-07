@@ -65,6 +65,6 @@ When a password is set:
 
 ## 🧵 Learn More
 
-- Visit [cherami.link/security](https://cherami.link/security) for our security whitepaper
-- Try it at [cherami.link](https://cherami.link)
+- Visit [cherami.link](https://cherami.link) to try the service
+- Read the [security documentation](security-audit.md) in this repository
 - API documentation at [cherami.link/api/docs](https://cherami.link/api/docs)
